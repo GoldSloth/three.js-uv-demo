@@ -1,0 +1,16 @@
+{
+  "name": "three.js-uv-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "devmon": "0.0.1",
+    "http-server": "^0.11.1",
+    "typings": "^2.1.1"
+  }
+}
